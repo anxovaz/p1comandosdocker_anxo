@@ -70,9 +70,15 @@ touch readme2.md
 
 #11. Os pasos a seguir para subir o arquivo que estás editando e o arquico readme2.md
 
+git init
+git add ruta archivo #Para agregar archivos
+git commit -m nomecommit #Adjuntar los archivos
+git push https://github.com/anxovaz/p1comandosdocker_anxo.git #Subirlos al repositorio indicado
 
 
 #12. Cómo comprobarías que existen diferencias entre o teu repositorio local e o remote?
+
+git status
 
 
 
